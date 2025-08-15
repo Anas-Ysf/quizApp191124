@@ -4,7 +4,6 @@
 
 A clean, interactive JavaScript quiz web app to test your basic JS knowledge. Built with pure HTML, CSS, and JavaScript—no frameworks needed!
 
-![Quiz App Screenshot](./images/screenshot.png) *(Add a screenshot later)*
 
 ## Features ✨
 - 5 handpicked JavaScript questions with multiple-choice answers
@@ -18,6 +17,6 @@ A clean, interactive JavaScript quiz web app to test your basic JS knowledge. Bu
 - **UX:** Visual feedback for correct/wrong answers
 
 ## How to Run 🚀
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Anas-Ysf/quizApp191124.git
+Page Link:
+
+https://anas-ysf.github.io/quizApp191124
